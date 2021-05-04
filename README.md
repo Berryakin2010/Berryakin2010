@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Berryakin2010
+- 👋 Hi, I’m Akin
 - 👀 I’m interested in Cloud Computing (GCP & AWS), Python programming lanaguage, SQL, and some Javascript.
 - 🌱 I’m currently learning IT automation with Python from coursera.
 - 💞️ I’m looking to collaborate on interested in GCP projects and automation.
