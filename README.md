@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Akin
-- 👀 I’m interested in Cloud Computing (GCP & AWS), Python programming lanaguage, SQL, and some Javascript.
-- Recently finished Google IT support certificate.
-- 🌱 Recently finished Google IT automation with Python from coursera.
-- 💞️ I’m interested in GCP projects and automation.
+- 👀 I’m interested in Cloud Computing (GCP/Azure/AWS), Python programming lanaguage, Powershell scripting, and MySQL.
+- Finished Google IT support certificate.
+- 🌱 Finished Google IT automation with Python from coursera.
+- Working with Infosys as a Senior IT Support associate.
+- 💞️ I’m interested in GCP/Azure projects and automation.
 - 📫 How to reach me check my LinkedIn page.
 
 <!---
